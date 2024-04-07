@@ -4,7 +4,6 @@
 - 
 - The courses I took: https://stepik.org/users/551656627/profile
 - What books have I read: (Grokking Algorithms, written by Aditya Y. Bhargava)
-
 - 
 <!---
 vldschkds/vldschkds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
